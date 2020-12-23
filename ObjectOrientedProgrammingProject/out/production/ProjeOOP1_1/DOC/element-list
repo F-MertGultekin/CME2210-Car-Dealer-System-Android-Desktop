@@ -1,0 +1,17 @@
+dealer_.Selling
+dealer_.Service
+dealer_.Service.FactoryDesign
+interfaces
+person
+person.bank
+Stack
+userInterface
+userInterface.dealer
+userInterface.dealer.userInterface
+userInterface.service
+userInterface.user
+userInterface.vehicle
+userInterface.vehicle.car.userInterface
+vehicle
+vehicle.factorydesign
+vehicle.vehicleIdentities
